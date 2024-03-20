@@ -15,9 +15,16 @@
 
 ### ⭐️ Software Architecture
 
-
+![](https://github.com/jy2694/hgis-react/blob/main/architecture.png?raw=true)
 
 ---
+
+### 🧩 Storyboard
+
+
+
+* 초기화면은 Javascript의 geolocation 기능을 사용하여 현재 위치를 기준으로 지도에 표시합니다.
+* 지도 좌측에는 행정 구역이 Tree Menu로 구성되어 사용자가 특정 행정 구역을 찾아보기 쉽게 구성합니다.
 
 ### 📄 License
 
